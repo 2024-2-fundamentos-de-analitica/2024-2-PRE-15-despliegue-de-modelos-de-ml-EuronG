@@ -9,6 +9,7 @@ setup(
     install_requires=[
         "pytest",
         "flask",
+        "matplotlib",
         "pandas",
         "scikit-learn",
         "requests",

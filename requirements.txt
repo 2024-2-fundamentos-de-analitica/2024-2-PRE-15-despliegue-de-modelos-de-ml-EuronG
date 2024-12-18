@@ -1,5 +1,6 @@
 pytest
 flask
+matplotlib
 pandas
 scikit-learn
 requests
